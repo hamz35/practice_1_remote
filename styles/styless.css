@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bolder;
+    margin: 20px;
 }
 
 h1   {
@@ -10,4 +11,9 @@ h1   {
 }
 li {
     list-style: none;
+}
+
+p {
+    color:rgb(255, 1, 200);
+    font-size: 1.2em;
 }
